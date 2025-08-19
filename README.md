@@ -22,14 +22,10 @@ Complete mobile application with backend integration, authentication, and cloud-
 
 ## Screenshots
 <img title="a title" alt="Alt text" src="https://i.imgur.com/Tfu2ogz.png" width='150'>
-<img title="a title" alt="Alt text" src="https://i.imgur.com/vVa38tY.png
-" width='150'>
-<img title="a title" alt="Alt text" src="https://i.imgur.com/yNrXR7b.png
-" width='150'>
-<img title="a title" alt="Alt text" src="https://i.imgur.com/p091pfo.png
-" width='150'>
-<img title="a title" alt="Alt text" src="https://i.imgur.com/lkYKCWD.png
-" width='150'>
+<img title="a title" alt="Alt text" src="https://i.imgur.com/vVa38tY.png" width='150'>
+<img title="a title" alt="Alt text" src="https://i.imgur.com/yNrXR7b.png" width='150'>
+<img title="a title" alt="Alt text" src="https://i.imgur.com/p091pfo.png" width='150'>
+<img title="a title" alt="Alt text" src="https://i.imgur.com/lkYKCWD.png" width='150'>
 ## 🧠 Teck Stack
 
 - ⚙️ **Express API** with **PostgreSQL** using **Neon**
